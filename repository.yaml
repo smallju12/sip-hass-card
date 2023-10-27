@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: sip client Add-on
+url: "https://github.com/smallju12/sip-hass-card"
+maintainer: Jordy Kuhne <jordy.kuhne@gmail.com>
